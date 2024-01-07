@@ -1,0 +1,50 @@
+[
+  {
+    "title": "Pose Detection",
+    "imageSrc": "projects/project1.png",
+    "description": "Machine Learning model for human pose detection was successfully developed to detect Human Pose",
+    "skills": ["Sk-Learn", "OpenCV", "Numpy" , "Pandas"],
+    "demo": "https://github.com/chinmay-3040/Human-Pose-Detection",
+    "source": "https://github.com/chinmay-3040/Human-Pose-Detection"
+  },
+  {
+    "title": "Dance Hub",
+    "imageSrc": "projects/project2.png",
+    "description": "Created a web server using NodeJS and integrated the same with front end to make it work on localhost",
+    "skills": ["HTML", "CSS", "JS", "NodeJS" ,"MongoDB"],
+    "demo": "https://github.com/chinmay-3040/Dance-Website-",
+    "source": "https://github.com/chinmay-3040/Dance-Website-"
+  },
+  {
+    "title": "Newzy App",
+    "imageSrc": "projects/project3.png",
+    "description": "Developed an intuitive front-end interface using React and NewsAPI to provide daily news with various features.",
+    "skills": ["React", "API"],
+    "demo": "https://github.com/chinmay-3040/NewzyApp",
+    "source": "https://github.com/chinmay-3040/NewzyApp"
+  },
+  {
+    "title": "SkySync",
+    "imageSrc": "projects/project4.png",
+    "description": "Developed an intuitive front-end interface leveraging RapidAPI to provide real-time weather information for various cities",
+    "skills": ["Html","CSS","JS", "API"],
+    "demo": "https://admirable-pika-04fa02.netlify.app/",
+    "source": "https://github.com/chinmay-3040/SkySync"
+  },
+  {
+    "title": "Cloning Amazon.com",
+    "imageSrc": "projects/project5.png",
+    "description": "Developed an intuitive front-end interface using React and NewsAPI to provide daily news with various features.",
+    "skills": ["HTML", "CSS"],
+    "demo": "https://github.com/chinmay-3040/Clone-Amazon.com",
+    "source": "https://github.com/chinmay-3040/Clone-Amazon.com"
+  },
+  {
+    "title": "Simon game",
+    "imageSrc": "projects/project6.png",
+    "description": "Developed an intuitive front-end interface using React and NewsAPI to provide daily news with various features.",
+    "skills": ["HTML", "CSS" , "JS"],
+    "demo": "https://github.com/chinmay-3040/SimonGame",
+    "source": "https://github.com/chinmay-3040/SimonGame"
+  }
+]
