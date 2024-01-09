@@ -34,7 +34,7 @@
   {
     "title": "Cloning Amazon.com",
     "imageSrc": "projects/project5.png",
-    "description": "Developed an intuitive front-end interface using React and NewsAPI to provide daily news with various features.",
+    "description": "Web development front-end project showcases my skills in HTML and CSS to create an Amazon clone app.",
     "skills": ["HTML", "CSS"],
     "demo": "https://github.com/chinmay-3040/Clone-Amazon.com",
     "source": "https://github.com/chinmay-3040/Clone-Amazon.com"
@@ -42,7 +42,7 @@
   {
     "title": "Simon game",
     "imageSrc": "projects/project6.png",
-    "description": "Developed an intuitive front-end interface using React and NewsAPI to provide daily news with various features.",
+    "description": " Designed and implemented a Simon Memory Game using web technologies.",
     "skills": ["HTML", "CSS" , "JS"],
     "demo": "https://github.com/chinmay-3040/SimonGame",
     "source": "https://github.com/chinmay-3040/SimonGame"
